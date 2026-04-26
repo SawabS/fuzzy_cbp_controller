@@ -1,6 +1,6 @@
 """Mamdani fuzzy controller for a CPB rotary blood pump.
 
-The script evaluates the final-exam operating point:
+The script evaluates the required operating point:
     Delta pressure = 84 mmHg
     Blood flow     = 6 L/min
 
